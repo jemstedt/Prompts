@@ -1,4 +1,4 @@
-# Description:
+## Description:
 **A prompt to create multiple-choice questions with elaborative feedback for the response alternatives**
 
 ### Prompt:
