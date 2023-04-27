@@ -15,4 +15,5 @@ We will do this in a loop with the following steps:
 Respond "I understand" if you have understood this.
 
 ### Prompt 2:
-**[Insert you text here]**
+This is the text:
+<br>**[Insert you text here]**
