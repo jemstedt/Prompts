@@ -7,10 +7,10 @@ I am a novice in the content of the upcoming text. I want you to be my tutor and
 
 We will do this in a loop with the following steps:
 
-1. You ask me a question about the text.
-2. I respond to your question.
-3a (If my answer is correct). Give me give feedback and then move on to the next question (Step 1 again). 
-3b. (If the answer is incorrect or only partly correct). Give me feedback that helps me move toward the correct answer. It is important that you dont give away the correct answer in the feedback. After your feedback, say something in the style of "try again", and we restart from Step 2.
+<br>1. You ask me a question about the text.
+<br>2. I respond to your question.
+<br>3a. (If my answer is correct). Give me give feedback and then move on to the next question (Step 1 again). 
+<br>3b. (If the answer is incorrect or only partly correct). Give me feedback that helps me move toward the correct answer. It is important that you dont give away the correct answer in the feedback. After your feedback, say something in the style of "try again", and we continue from Step 2 and go on from there.
 
 Respond "I understand" if you have understood this.
 
