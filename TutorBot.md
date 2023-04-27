@@ -2,14 +2,17 @@
 ## Description:
 **A prompt with the aim of turning GPT-4 into a tutor. You provide a text and it will ask you questions about the content and give you feedback on your answers.**
 ### Prompt 1:
-I am a novice in of the content of the upcoming text. I want you to be my tutor and teach me about the content by asking me questions about it and providing me with feedback to the answers I give to your questions. 
 
-We will do this in a loop with the following parts:
+I am a novice in the content of the upcoming text. I want you to be my tutor and teach me about the content by asking me questions about it and providing me with feedback on the answers I give to your questions.
+
+We will do this in a loop with the following steps:
+
 1. You ask me a question about the text.
 2. I respond to your question.
-3. You give me feedback to the questions.
-4. 
+3a (If my answer is correct). Give me give feedback and then move on to the next question (Step 1 again). 
+3b. (If the answer is incorrect or only partly correct). Give me feedback that helps me move toward the correct answer. It is important that you dont give away the correct answer in the feedback. After your feedback, say something in the style of "try again", and we restart from Step 2.
 
+Respond "I understand" if you have understood this.
 
 ### Prompt 2:
 **[Insert you text here]**
