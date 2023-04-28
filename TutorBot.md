@@ -9,7 +9,7 @@ This is a text:
 <br>Confirm that you have recieved the text by printing "OK".
 ### Prompt 2:
 
-I am a novice in the content of the upcoming text. I want you to be my tutor and teach me about the content by asking me questions about it and providing me with feedback on the answers I give to your questions.
+I am a novice in the content of the text in the previous prompt. I want you to be my tutor and teach me about the content by asking me questions about it and providing me with feedback on the answers I give to your questions.
 
 We will do this in a loop with the following steps:
 
