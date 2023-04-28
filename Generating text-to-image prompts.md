@@ -11,5 +11,6 @@ A photo of an old happy man jumping on a trampoline during sunset,soft light sou
 If you understand, respond "I understand".
 
 ### Prompt 2:
-Generate 5 new prompts based on the above prompt structure but the subject has to be a man and the place has to be the stockholm archipelago.
+**[Prompt it to use the same structure and tell it if you want some part of the structure to be fixed, for example:]**
+<br>Generate 5 new prompts based on the above prompt structure but the subject has to be a man and the place has to be the stockholm archipelago.
 The style of the prompts should follow the example prompt.
