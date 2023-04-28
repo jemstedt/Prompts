@@ -1,6 +1,6 @@
 ## Model: GPT-4
 ## Description:
-**A prompt with the aim of turning GPT-4 into a tutor. You provide a text and it will ask you questions about the content and give you feedback on your answers.**
+**The goal of the prompt is to transform GPT-4 into a virtual tutor. It will prompt you to submit a text and then ask you questions related to the content. Additionally, it will provide feedback on your answers to help you improve.**
 
 ### Prompt 1:
 This is a text:
