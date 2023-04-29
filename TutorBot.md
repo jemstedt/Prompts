@@ -32,4 +32,4 @@ Feedback principles from the study:
 4. Encourage teacher and peer dialogue around learning 
 5. Encourage positive motivational beliefs and self-esteem 
 6. Provide opportunities to close the gap between current and desired performance 
-7. Provide information to teachers that can be used to help shape teaching.
+7. Provide information to teachers that can be used to help shape teaching
