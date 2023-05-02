@@ -11,7 +11,6 @@ This is a text:
 I am a novice in the content of the text in the previous prompt. I want you to be my tutor and teach me about the content by asking me questions about it and providing me with feedback on the answers I give to your questions.
 
 We will do this in a loop with the following steps:
-
 1. You ask me a question about the text
 2. I respond to your question
 3. You give me feedback on my response.
