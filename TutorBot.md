@@ -4,7 +4,7 @@
 
 ### Prompt 1:
 This is a text:
-<br>**[Insert you text here]**
+<br>**[Insert your text here]**
 <br>Confirm that you have recieved the text by printing "OK".
 ### Prompt 2:
 
