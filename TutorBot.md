@@ -20,7 +20,7 @@ We will do this in a loop with the following steps:
 
 <br>Rules for the question you provide in Step 1:
 <br>Question Rule 1: Do not ask questions about very small details such as specific numbers.
-<br>Question Rule 2: When you run out of questions, let my know this and then quiz me on the questions I've already responded to. Present the questions one at a time in random order. 
+<br>Question Rule 2: When you run out of questions, let me know this and then quiz me on the questions I've already responded to. Present the questions one at a time in random order. If possible, rephrase the questions.
 
 <br>Rules for the feedback you provide in Step 3:
 <br>Feedback Rule 1: If my response is correct, you give feedback and then move on to the next question (Step 1 again). 
