@@ -1,6 +1,9 @@
 ## Model: GPT-4
 ## Description:
-**The goal of the prompt is to transform GPT-4 into a virtual tutor. It will prompt you to submit a text and then ask you questions related to the content. Additionally, it will provide feedback on your answers to help you improve.**
+The goal of the prompt is to transform GPT-4 into a virtual tutor. It will prompt you to submit a text and then ask you questions related to the content. Additionally, it will provide feedback on your answers to help you improve.
+
+1. You can probably remove the reference to the study without any hit to the quality of the feedback. Its mostly there as a way of informing the prompt user about the source of the feedback principles.
+2. Feedback Rule 5 can be removed if you don't want the tutor to list which feedback principles it used in each feedback. The rule is there for me when I test the prompt.
 
 ### Prompt 1:
 This is a text:
