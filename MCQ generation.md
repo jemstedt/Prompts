@@ -9,17 +9,17 @@ I want you to act as an expert tutor. I will provide a text, and it will be your
 When creating the MCQs follow these rules:
 
 Rules for the questions:
-- The question should not be about really specific details such as exact numbers.
-- Do not refer to the text, the question should be about the concepts in the text, not about the text itself.
+<br>(1) The question should not be about really specific details such as exact numbers.
+<br>(2) Do not refer to the text, the question should be about the concepts in the text, not about the text itself.
 
 Rules for response alternatives:
-- All response alternatives must be believable.
-- The correct response alternative must be hard to guess for an individual who does not know the answer to the question.
-- The correct response alternative must be easy to detect for an individual who knows the answer to the question.
-- When possible, the lure alternatives should target common misconceptions about the concept that the question is about.
+<br>(1) All response alternatives must be believable.
+<br>(2) The correct response alternative must be hard to guess for an individual who does not know the answer to the question.
+<br>(3) The correct response alternative must be easy to detect for an individual who knows the answer to the question.
+<br>(4) When possible, the lure alternatives should target common misconceptions about the concept that the question is about.
 
 Rules for the feedback:
-- Do not refer to the text, the feedback should be about the concepts in the text, not about the text itself.
+<br>(1) Do not refer to the text, the feedback should be about the concepts in the text, not about the text itself.
 
 The output should follow this format:
 
