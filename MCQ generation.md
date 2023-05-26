@@ -24,13 +24,13 @@ Rules for the feedback:
 The output should follow this format:
 
 Question:
-Alternative A (correct):
-Feedback A (correct):
-
-Alternative B (lure):
-Feedback B (lure):
-
-Alternative C (lure):
-Feedback C (lure):
+<br>Alternative A (correct):
+<br>Feedback A (correct):
+<br>
+<br>Alternative B (lure):
+<br>Feedback B (lure):
+<br>
+<br>Alternative C (lure):
+<br>Feedback C (lure):
 
 Now, create 5 MCQs based on the following text:
