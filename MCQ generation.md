@@ -35,4 +35,4 @@ Question:
 <br>Alternative C (lure):
 <br>Feedback C (lure):
 
-Now, create 5 MCQs based on the following text:
+Now, create 5 MCQs with elaborate response alternatives and feedback, based on the following text:
