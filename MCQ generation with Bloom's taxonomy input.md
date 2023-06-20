@@ -1,3 +1,9 @@
+## Description: 
+**This is a prompt for creating multiple-choice questions (MCQs) using GPT-4, which includes the option to select the Bloom's taxonomy level of the MCQ. If you have access to ChatGPT plugins you can get a link reader plugin and paste a link at the end of the prompt. Otherwise you can just copy and paste a text at the end.**
+
+**Not every question, response alternative, or feedback will be a winner. Be the human-in-the-loop by selecting, re-running and curating the output.**
+
+### Prompt:
 I want you to act as an expert tutor. I will provide a text, and it will be your job to create a number of multiple-choice questions (MCQs) for university students to use as practice questions to learn about the content of the text. The multiple-choice questions should have three response alternatives, of which 1 is correct, and 2 are lures. You should also provide corrective feedback to each alternative.
 
 When creating the MCQs follow these rules:
