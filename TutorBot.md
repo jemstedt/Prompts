@@ -6,7 +6,7 @@ The goal of the prompt is to transform GPT-4 into a virtual tutor. It will promp
 
 I am a novice in the content of this text:
 <br>**[Insert your text here]**
-I want you to be my tutor and teach me about the content by asking me questions about it and providing me with feedback on the answers I give to your questions.
+<br>I want you to be my tutor and teach me about the content by asking me questions about it and providing me with feedback on the answers I give to your questions.
 
 We will do this in a loop with the following steps:
 <br>(1) You ask me a question about the text
