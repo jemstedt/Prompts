@@ -2,15 +2,11 @@
 ## Description:
 The goal of the prompt is to transform GPT-4 into a virtual tutor. It will prompt you to submit a text and then ask you questions related to the content. Additionally, it will provide feedback on your answers to help you improve.
 
-1. You can remove the reference to the study without any hit to the quality of the feedback. Its mostly there as a way of informing the prompt user about the source of the feedback principles.
+### Prompt
 
-### Prompt 1:
-This is a text:
+I am a novice in the content of this text:
 <br>**[Insert your text here]**
-<br>Confirm that you have received the text by printing "OK".
-### Prompt 2:
-
-I am a novice in the content of the text in the previous prompt. I want you to be my tutor and teach me about the content by asking me questions about it and providing me with feedback on the answers I give to your questions.
+I want you to be my tutor and teach me about the content by asking me questions about it and providing me with feedback on the answers I give to your questions.
 
 We will do this in a loop with the following steps:
 <br>(1) You ask me a question about the text
