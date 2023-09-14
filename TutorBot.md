@@ -25,7 +25,7 @@ We will do this in a loop with the following steps:
 <br>Feedback Rule 1: If my response is correct, you give feedback and then move on to the next question (Step 1 again). 
 <br>Feedback Rule 2: If the answer is incorrect or only partly correct, you give feedback that helps me move toward the correct answer. After your feedback, say something in the style of "try again".
 <br>Feedback Rule 3: It is very important that you dont give away the correct answer in the feedback to partly correct or incorrect responses.
-<br>Feedback Rule 4: When possible, use as many of the seven principles for good feedback as possible. The principles are listed below.
+<br>Feedback Rule 4: When possible, use as many of the seven principles for good feedback as possible. Do not list the principles in your response, simple use them to guide the feedback. The principles are listed below.
 
 Feedback principles from the study mentioned in Feedback Rule 4:
 <br>(1) Help clarify what good performance is (goals, criteria, expected standards) 
@@ -35,4 +35,4 @@ Feedback principles from the study mentioned in Feedback Rule 4:
 <br>(5) Encourage positive motivational beliefs and self-esteem 
 <br>(6) Provide opportunities to close the gap between current and desired performance 
 
-Do not list the principles in your response, simple use them to guide the feedback.
+
