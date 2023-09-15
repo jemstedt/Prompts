@@ -15,5 +15,4 @@ Question:
 <br>Feedback C (lure):
 
 My first request is to do this for the following text:
-
-**[Copy paste your text here]**
+<br>**[Insert your text here]**
